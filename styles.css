@@ -367,7 +367,7 @@ body, h1, h2, p, ul {
     position: relative;
     width: 350px;
     height: 500px;
-    background-image: url('business.jpg'); 
+    background-image: url('business.jpeg'); 
     background-size: cover;
     background-position: center;
     border-radius: 10px;
@@ -495,7 +495,7 @@ body {
 }
 
 .related-topics-section {
-  background-image: url('background-image.jpg'); /* Replace with your actual image path */
+  background-image: url('background.jpg'); 
   background-size: cover;
   background-position: center;
   padding: 50px 20px;
